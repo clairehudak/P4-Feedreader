@@ -5,6 +5,6 @@ My goal was to implement the remaining test suites found in the [Project Rubric]
 
 ## How to run the application:
 
-* Download or clone the repository and open the index.html file in your browser.
+* Download or clone the repository, and open the index.html file in your browser.
 * Click the menu icon to change feeds.
 * At the bottom of the page, all tests should pass in the Jasmine spec reporter.
