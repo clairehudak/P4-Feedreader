@@ -82,7 +82,7 @@ $(function() {
        * a single .entry element within the .feed container.
        */
       it('loads correctly', function(done) {
-        expect($('.feed .entry')).toBeDefined();
+        expect($('.feed .entry').length).toBeGreaterThan(0);
         done();
       });
     });
